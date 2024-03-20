@@ -1,6 +1,10 @@
 # Recipe
 This application was developed for Web
 Application module, as coursework portfolio project @ WIUT by student ID: 00012247
+# Calculation 
+12247 % 20 = 7
+In the topic list,  "Recipe Book" is in index 7
+
 
 Recipe Book is a web application that allows users to manage and share their favorite recipes.
 
