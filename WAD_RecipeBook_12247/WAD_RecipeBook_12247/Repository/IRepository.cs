@@ -1,5 +1,7 @@
 ﻿namespace WAD_RecipeBook_12247.Repository
 {
+    // StudentId 12247
+
     public interface IRepository <T>
     {
         Task<IEnumerable<T>> GetAllAsync();

@@ -3,6 +3,8 @@ using WAD_RecipeBook_12247.Models;
 
 namespace WAD_RecipeBook_12247.Data
 {
+    // StudentId 12247
+
     public class GeneralDBContext : DbContext
     {
         public GeneralDBContext(DbContextOptions<GeneralDBContext> options) : base(options) { }

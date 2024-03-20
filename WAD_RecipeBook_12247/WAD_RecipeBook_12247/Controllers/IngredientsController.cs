@@ -4,6 +4,8 @@ using WAD_RecipeBook_12247.Repository;
 
 namespace WAD_RecipeBook_12247.Controllers
 {
+    // StudentId 12247
+
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class IngredientsController : ControllerBase

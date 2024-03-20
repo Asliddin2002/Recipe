@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WAD_RecipeBook_12247.Models
 {
+    // StudentId 12247
     public class Ingredients
     {
         [Required]

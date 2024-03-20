@@ -4,6 +4,8 @@ using WAD_RecipeBook_12247.Models;
 
 namespace WAD_RecipeBook_12247.Repository
 {
+    // StudentId 12247
+
     public class IngredientsRepository : IRepository<Ingredients>
     {
         private readonly GeneralDBContext _context;
