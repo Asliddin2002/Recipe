@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WAD_RecipeBook_12247.props" />
+</Project>

@@ -56,7 +56,6 @@ namespace WAD_RecipeBook_12247.Controllers
         {
             await _repository.DeleteAsync(id);
             return NoContent();
-
         }
     }
 }

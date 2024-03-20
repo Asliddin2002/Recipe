@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WAD_RecipeBook_12247")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e101f5a1f91176b41bba549e17a25ac8b37ff07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e143924baf0fe96a75022063c487b3149abba5b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WAD_RecipeBook_12247")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WAD_RecipeBook_12247")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
